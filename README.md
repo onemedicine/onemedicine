@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hey, onemedicine here! :dizzy:
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=onemedicine&show_icons=true&title_color=38F807&text_color=68d391&icon_color=ED1C24&bg_color=080808" >]
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=onemedicine&show_icons=true&title_color=38F807&text_color=68d391&icon_color=ED1C24&bg_color=080808" >]()
 
 
 I'm Mirror, a backend developer working in crypto and blockchain. :sunrise:
