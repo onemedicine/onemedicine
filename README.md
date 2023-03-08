@@ -34,8 +34,8 @@ I'm Mirror, a backend developer working in crypto and blockchain. :sunrise:
 
 ----
 
-[<img align="left" width="48%" src="https://stats.quine.sh/mirror/languages-over-time?theme=dark" >](https://quine.sh)
-[<img align="right" width="48%" src="https://stats.quine.sh/mirror/topics-over-time?theme=dark" >](https://quine.sh)
+[<img align="left" width="47%" src="https://stats.quine.sh/mirror/languages-over-time?theme=dark" >](https://quine.sh)
+[<img align="right" width="47%" src="https://stats.quine.sh/mirror/topics-over-time?theme=dark" >](https://quine.sh)
 
 ----
 
