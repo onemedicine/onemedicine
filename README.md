@@ -33,3 +33,7 @@ I'm Mirror, a backend developer working in crypto and blockchain. :sunrise:
 ![](https://raw.githubusercontent.com/onemedicine/github-stats-transparent/output/generated/languages.svg)
 
 ----
+
+[![mirror's GitHub | Topics Over Time](https://stats.quine.sh/mirror/topics-over-time?theme=dark)](https://quine.sh)
+
+----
